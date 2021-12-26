@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>first blog</title>
+    <link href="/2021/12/26/first-blog-1/"/>
+    <url>/2021/12/26/first-blog-1/</url>
+    
+    <content type="html"><![CDATA[<p>2021.12.26终于搭建好了自己的hexo，还是蛮简单的，很早以前就想搭建了，可惜一直没有付出行动。最近因为疫情，城市封闭了，只好居家办公，每天的生活只有做饭吃饭玩手机(这当然是周末的啦~)。希望疫情赶快结束，然后做很多想做的事情。</p><p>以后这里将记录我的成长啦~~~</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>第一篇博客</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/12/26/hello-world/"/>
     <url>/2021/12/26/hello-world/</url>
